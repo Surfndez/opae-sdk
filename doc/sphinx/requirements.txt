@@ -1,6 +1,6 @@
 requests==2.20.0
 docutils==0.14
-pygments==2.2.0
+pygments==2.7.4
 sphinx==1.6.5
 sphinx-rtd-theme
 sphinx_fontawesome
